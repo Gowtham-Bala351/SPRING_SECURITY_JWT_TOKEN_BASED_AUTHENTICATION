@@ -1,0 +1,10 @@
+2025-07-22 16:26:30 INFO  USER_jam - jamLoggined
+2025-07-22 16:26:30 INFO  USER_jam - Request Method POST, URI(API Endpoint) : /login, Query parameters: null
+2025-07-22 16:27:56 INFO  USER_jam - jamLoggined
+2025-07-22 16:27:56 INFO  USER_jam - Request Method POST, URI(API Endpoint) : /login, Query parameters: null
+2025-08-05 13:49:08 INFO  USER_jam - jamLoggined
+2025-08-05 13:49:08 INFO  USER_jam - Request Method POST, URI(API Endpoint) : /login, Query parameters: null
+2025-08-05 13:49:38 INFO  USER_jam - Request Method GET, URI(API Endpoint) : /Proceed, Query parameters: session_id=MOD0000001
+2025-08-07 11:02:27 INFO  USER_jam - jamLoggined
+2025-08-07 11:02:27 INFO  USER_jam - Request Method POST, URI(API Endpoint) : /login, Query parameters: null
+2025-08-07 11:02:41 INFO  USER_jam - Request Method GET, URI(API Endpoint) : /Proceed, Query parameters: session_id=MOD0000005

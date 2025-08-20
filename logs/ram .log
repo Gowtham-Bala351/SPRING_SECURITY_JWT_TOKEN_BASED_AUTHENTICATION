@@ -1,0 +1,4 @@
+2025-08-05 13:47:23 INFO  USER_ram - ramLoggined
+2025-08-05 13:47:23 INFO  USER_ram - Request Method POST, URI(API Endpoint) : /login, Query parameters: null
+2025-08-05 13:48:13 INFO  USER_ram - Request Method GET, URI(API Endpoint) : /Proceed, Query parameters: session_id=MOD0000001
+2025-08-05 13:48:15 INFO  USER_ram - Request Method GET, URI(API Endpoint) : /Proceed, Query parameters: session_id=MOD0000001

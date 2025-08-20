@@ -1,0 +1,22 @@
+2025-08-05 14:08:24 INFO  USER_key - keyLoggined
+2025-08-05 14:08:24 INFO  USER_key - Request Method POST, URI(API Endpoint) : /login, Query parameters: null
+2025-08-05 14:08:37 INFO  USER_key - Request Method GET, URI(API Endpoint) : /Proceed, Query parameters: session_id=MOD0000001
+2025-08-05 14:08:51 INFO  USER_key - Request Method GET, URI(API Endpoint) : /Proceed, Query parameters: session_id=MOD0000002
+2025-08-05 14:08:55 INFO  USER_key - Request Method GET, URI(API Endpoint) : /Proceed, Query parameters: session_id=MOD0000003
+2025-08-05 14:08:59 INFO  USER_key - Request Method GET, URI(API Endpoint) : /Proceed, Query parameters: session_id=MOD0000004
+2025-08-05 14:09:05 INFO  USER_key - Request Method GET, URI(API Endpoint) : /Proceed, Query parameters: session_id=MOD0000005
+2025-08-05 14:09:09 INFO  USER_key - Request Method GET, URI(API Endpoint) : /Proceed, Query parameters: session_id=MOD0000006
+2025-08-05 14:09:13 INFO  USER_key - Request Method GET, URI(API Endpoint) : /Proceed, Query parameters: session_id=MOD0000007
+2025-08-05 14:19:19 INFO  USER_key - keyLoggined
+2025-08-05 14:19:19 INFO  USER_key - Request Method POST, URI(API Endpoint) : /login, Query parameters: null
+2025-08-05 14:28:05 INFO  USER_key - keyLoggined
+2025-08-05 14:28:05 INFO  USER_key - Request Method POST, URI(API Endpoint) : /login, Query parameters: null
+2025-08-05 14:28:46 INFO  USER_key - Request Method GET, URI(API Endpoint) : /Proceed, Query parameters: session_id=MOD0000001
+2025-08-05 14:30:55 INFO  USER_key - keyLoggined
+2025-08-05 14:30:55 INFO  USER_key - Request Method POST, URI(API Endpoint) : /login, Query parameters: null
+2025-08-05 14:31:25 INFO  USER_key - Request Method GET, URI(API Endpoint) : /Proceed, Query parameters: session_id=MOD0000001
+2025-08-07 10:10:10 INFO  USER_key - keyLoggined
+2025-08-07 10:10:10 INFO  USER_key - Request Method POST, URI(API Endpoint) : /login, Query parameters: null
+2025-08-07 10:16:34 INFO  USER_key - keyLoggined
+2025-08-07 10:16:34 INFO  USER_key - Request Method POST, URI(API Endpoint) : /login, Query parameters: null
+2025-08-07 10:17:03 INFO  USER_key - Request Method GET, URI(API Endpoint) : /Proceed, Query parameters: session_id=MOD0000001
